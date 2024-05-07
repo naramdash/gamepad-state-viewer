@@ -57,7 +57,9 @@ onMounted(function withGamepadStatePolling() {
   </p>
 
   <h2> Visualization </h2>
-  Check <a href="https://w3c.github.io/gamepad/#remapping" target="_blank">W3C STANDARD GAMEPAD layout</a>.
+  <p>
+    Check <a href="https://w3c.github.io/gamepad/#remapping" target="_blank">W3C STANDARD GAMEPAD layout</a>.
+  </p>
   <svg viewBox="0 0 800 400" width="800" height="400">
     <g data-comment="bodies">
       <rect class="body center" x="220" y="110" width="360" height="200" />
